@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ac2cde1-345d-49b2-a9ea-e5f8ad7054ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577452336171</updated>
       <workItem from="1577452337513" duration="196000" />
-      <workItem from="1577452544709" duration="274000" />
+      <workItem from="1577452544709" duration="589000" />
     </task>
     <task id="LOCAL-00001" summary="test ignore">
       <created>1577452680127</created>
@@ -56,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577452680127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test ignore">
+      <created>1577452883882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577452883882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test ignore &#10;rede test 6">
+      <created>1577453007605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577453007605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,7 +78,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="test ignore" />
+    <MESSAGE value="test ignore &#10;rede test 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="test ignore &#10;rede test 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="297" y="126" key="#Custom_Plugin_Repositories" timestamp="1577452434659">
@@ -75,18 +90,18 @@
       <screen x="0" y="23" width="1395" height="877" />
     </state>
     <state x="398" y="271" key="#com.intellij.fileTypes.FileTypeChooser/-1024.155.1024.745/0.23.1395.877@0.23.1395.877" timestamp="1577452609466" />
-    <state x="281" y="64" key="CommitChangelistDialog2" timestamp="1577452679949">
+    <state x="281" y="64" key="CommitChangelistDialog2" timestamp="1577453007485">
       <screen x="0" y="23" width="1395" height="877" />
     </state>
-    <state x="281" y="64" key="CommitChangelistDialog2/-1024.155.1024.745/0.23.1395.877@0.23.1395.877" timestamp="1577452679949" />
+    <state x="281" y="64" key="CommitChangelistDialog2/-1024.155.1024.745/0.23.1395.877@0.23.1395.877" timestamp="1577453007485" />
     <state x="199" y="100" key="SettingsEditor" timestamp="1577452532879">
       <screen x="0" y="23" width="1395" height="877" />
     </state>
     <state x="199" y="100" key="SettingsEditor/-1024.155.1024.745/0.23.1395.877@0.23.1395.877" timestamp="1577452532879" />
-    <state x="297" y="201" key="Vcs.Push.Dialog.v2" timestamp="1577452809107">
+    <state x="297" y="201" key="Vcs.Push.Dialog.v2" timestamp="1577453024475">
       <screen x="0" y="23" width="1395" height="877" />
     </state>
-    <state x="297" y="201" key="Vcs.Push.Dialog.v2/-1024.155.1024.745/0.23.1395.877@0.23.1395.877" timestamp="1577452809107" />
+    <state x="297" y="201" key="Vcs.Push.Dialog.v2/-1024.155.1024.745/0.23.1395.877@0.23.1395.877" timestamp="1577453024475" />
     <state x="374" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1577452546063">
       <screen x="0" y="23" width="1395" height="877" />
     </state>
